@@ -1,0 +1,161 @@
+{
+    "items": [
+        {
+            "name": "Program Overview",
+            "children": [
+                {
+                    "information": "In this graduate certificate program's Mobile Application Development courses, you learn to develop mobile apps for Google Android and Apple iOS devices. In addition to core fundamental courses, the offering covers advanced topics in mobile app development, web and enterprise technologies, user interface (UI), user experience (UX), emerging technologies and more."
+                },
+                {
+                    "information": "The knowledge you gain in this college technology program applied in a capstone project to develop mobile apps for business, gaming, health care, social networks, the internet of things and other areas of interest to which your imaginations takes you."
+                }
+            ]
+        },
+        {
+            "name": "How to Apply",
+            "children": [
+                {
+                    "name": "Apply Online",
+                    "children": [
+                        {
+                            "information": "Are you an International Student? Apply directly to Centennial College here."
+                        },
+                        {
+                            "information": "If you are applying through the Second Career Strategy, please apply at the Employment Training Centre for Second Career (Progress Campus). Second Career Strategy is a funding initiative for those who have been laid-off and are in need of training. For more information go to Second Career Strategy."
+                        },
+                        {
+                            "information": "If you have previously attended a full time program at Centennial College, you may be eligible for a Program Transfer. Visit Enrolment Services at any Campus for information."
+                        },
+                        {
+                            "information": "All other applicants must apply online at Ontariocolleges.ca. A non-refundable application fee of $95 must accompany applications. The fee is payable online, by telephone, online banking, by mail, or in person to Ontariocolleges.ca. For more information go to Ontariocolleges.ca Application Fees."
+                        }
+                    ]
+                },
+                {
+                    "name": "Submit Documents",
+                    "children": [
+                        {
+                            "information": "Current Ontario high school students and graduates from Ontario high schools: Notify your guidance counsellor that you have applied to college and your school will forward transcripts to Centennial College via Ontariocolleges.ca."
+                        },
+                        {
+                            "information": "Graduates of college/university, or high school outside Ontario but within Canada: You are responsible for requesting that your educational institute sends any required documents and transcripts to Ontariocolleges.ca."
+                        },
+                        {
+                            "information": "Applicants who attended school outside of Canada: If you are submitting transcripts to meet admission requirements, you must have the transcripts assessed by an independent credential assessment agency such as World Education Services (WES) or International Credential Assessment Service (ICAS)."
+                        },
+                        {
+                            "information": "For more information go to Submitting your Transcripts."
+                        }
+                    ]
+                },
+                {
+                    "name": "Confirm Your Offer of Admission",
+                    "children": [
+                        {
+                            "information": "Offers of Admission are sent by mail to eligible applicants. When you receive your offer, you must login to your account at Ontariocolleges.ca and confirm before the Deadline to Confirm noted in your offer letter."
+                        },
+                        {
+                            "information": "You may confirm only one college and one program offer at a time."
+                        },
+                        {
+                            "information": "You must confirm your offer by the Deadline to Confirm noted in your Offer of Admission letter or your seat may be given to another applicant."
+                        },
+                        {
+                            "information": "When you confirm your Offer of Admission at Centennial College you are given access to your personal myCentennial account where you can check your email, grades, register for courses, pay tuition fees, and see your class timetable."
+                        }
+                    ]
+                },
+                {
+                    "name": "Confirm Your Offer of Admission",
+                    "children": [
+                        {
+                            "information": "Centennial fees statements are sent by email to your personal email account and to your myCentennial email account. Fees statements are not mailed."
+                        },
+                        {
+                            "information": "You must make a minimum payment by the Fees Deadline noted in your Fees Statement or your seat may be given to another applicant."
+                        }
+                    ]
+                },
+                {
+                    "name": "Build Your Timetable (Register for Courses)",
+                    "children": [
+                        {
+                            "information": "Build your timetable (web-register for courses) at my.centennialcollege.ca."
+                        },
+                        {
+                            "information": "Fall registration begins mid-July"
+                        },
+                        {
+                            "information": "January registration begins mid-December"
+                        },
+                        {
+                            "information": "May registration begins mid-April"
+                        },
+                        {
+                            "information": "Your web-registration will not open if:"
+                        },
+                        {
+                            "information": "You have not submitted your minimum fee payment by the deadline"
+                        },
+                        {
+                            "information": "You received a Conditional Offer of Admission and you have not met the conditions of your offer."
+                        },
+                        {
+                            "information": "Once you have paid your fees or have made appropriate arrangements, register for your courses online through myCentennial."
+                        }
+                    ]
+                }
+            ]
+        },
+        
+        {
+            "name": "Program Highlights",
+            "children": [
+                {
+                    "information": "You learn app development on Google Android and Apple iOS platforms, two of the most popular platforms today. The program offers you experience in industry-standard technology. Mobile Applications Development courses employ project based learning (capstone project). Knowledgeable and approachable faculty members with diverse business experience and academic credentials teach the courses."                }
+            ]
+        },
+        {
+            "name": "Accreditation",
+            "children": [
+                {
+                    "information": "Accreditation will be pursued through the Canadian Information Processing Society (CIPS) and the Canadian Technology Accreditation Board (CTAB)."                }
+            ]
+        },
+        {
+            "name": "Career Outlook",
+            "children": [
+                {
+                    "information": "Mobile application developer, Software developer, Software tester" 
+                }
+            ]
+        },
+        {
+            "name": "Areas of Employment",
+            "children": [
+                {
+                    "information": "Software companies, Government, Public institutions, Banks, Small and medium businesses" 
+                }
+            ]
+        },
+        {
+            "name": "Admission Requirements",
+            "children": [
+                {
+                    "information": "A post-secondary diploma or degree in computer science or computer programming" 
+                }
+            ]
+        },
+        {
+            "name": "Tuition and Fees",
+            "children": [
+                {
+                    "information": "Canadian Students: $5,935.00" 
+                },
+                {
+                    "information": "International Students: $16,396.00" 
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+<ion-header>
+  <ion-navbar color= "secondary">
+    <ion-title>{{ headText }}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  
+    <ion-list>
+
+      <ion-item>
+        <ion-label stacked>Campaign ID</ion-label>
+        <ion-input type="text" [(ngModel)]="campaignID"></ion-input>
+      </ion-item>
+    
+      <ion-item>
+        <ion-label stacked>Name on card</ion-label>
+        <ion-input type="text" [(ngModel)]="nameOnCard"></ion-input>
+      </ion-item>
+  
+      <ion-item>
+        <ion-label stacked>Card Number</ion-label>
+        <ion-input type="text" [(ngModel)]="cardNumber"></ion-input>
+      </ion-item>
+
+      <ion-item>
+        <ion-label stacked>Expiry date</ion-label>
+        <ion-input type="text" [(ngModel)]="expiryDate"></ion-input>
+      </ion-item>
+
+      <ion-item>
+        <ion-label stacked>Security Code</ion-label>
+        <ion-input type="text" [(ngModel)]="securityCode"></ion-input>
+      </ion-item>
+
+      <ion-item>
+        <ion-label stacked>Postal Code</ion-label>
+        <ion-input type="text" [(ngModel)]="postalCode"></ion-input>
+      </ion-item>
+                     
+      <button ion-button full (click)="saveCard()" >{{ saveButtonText }}</button>
+
+    </ion-list>
+
+</ion-content>

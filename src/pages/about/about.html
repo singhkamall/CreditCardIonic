@@ -1,0 +1,48 @@
+<ion-header>
+    <ion-navbar color="secondary">
+        <ion-title>Credit Card</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+    <div *ngIf="showCardInfoSection; then cc else redirect"></div>
+
+    <ng-template #cc>
+
+            <ion-item-group>
+                <ion-item-divider color="light">Campaign ID</ion-item-divider>
+                <ion-item>{{campaignID}}</ion-item>
+            </ion-item-group>
+            <ion-item-group>
+                <ion-item-divider color="light">Name On Card</ion-item-divider>
+                <ion-item>{{nameOnCard}}</ion-item>
+            </ion-item-group>
+            <ion-item-group>
+                <ion-item-divider color="light">Card Number</ion-item-divider>
+                <ion-item>{{cardNumber}}</ion-item>
+            </ion-item-group>
+            <ion-item-group>
+                <ion-item-divider color="light">Expiry Date</ion-item-divider>
+                <ion-item>{{expiryDate}}</ion-item>
+            </ion-item-group>
+            <ion-item-group>
+                <ion-item-divider color="light">Security Code</ion-item-divider>
+                <ion-item>{{securityCode}}</ion-item>
+            </ion-item-group>
+            <ion-item-group>
+                <ion-item-divider color="light">Postal Code</ion-item-divider>
+                <ion-item>{{postalCode}}</ion-item>
+            </ion-item-group>
+        
+        <button ion-button full (click)="home()">Update Card Info</button>
+
+    </ng-template>
+
+    <ng-template #redirect>
+        <div>
+            "No Credit Card found!! Please add one."
+        </div>
+    </ng-template>
+
+</ion-content>

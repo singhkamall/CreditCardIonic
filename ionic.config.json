@@ -1,0 +1,8 @@
+{
+  "name": "CentennialMADP",
+  "app_id": "c4853844",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
